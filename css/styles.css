@@ -175,7 +175,7 @@ body {
 
 .features {
     padding-top: 94px;
-    padding-bottom: 94px;
+    padding-bottom: 47px;
 }
 
 .features .list {
@@ -203,6 +203,7 @@ body {
 /* -------------Work---------------------------------- */
 
 .work {
+    padding-top: 47px;
     padding-bottom: 94px;
 }
 
