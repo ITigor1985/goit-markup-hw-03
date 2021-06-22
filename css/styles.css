@@ -346,6 +346,7 @@ body {
 
 .footer .logo {
     display: inline-block;
+    text-decoration: none;
     color: inherit;
     margin-bottom: 20px;
 }
