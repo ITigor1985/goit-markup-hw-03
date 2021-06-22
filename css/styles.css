@@ -143,7 +143,6 @@ body {
     text-align: center;
     padding-top: 200px;
     padding-bottom: 200px;
-    margin-bottom: 94px;
 }
 
 .hero-button {
@@ -175,7 +174,8 @@ body {
 /* -----------------------Features------------------------- */
 
 .features {
-    margin-bottom: 94px;
+    padding-top: 94px;
+    padding-bottom: 94px;
 }
 
 .features .list {
@@ -203,7 +203,7 @@ body {
 /* -------------Work---------------------------------- */
 
 .work {
-    margin-bottom: 94px;
+    padding-bottom: 94px;
 }
 
 .work .list {
@@ -266,7 +266,7 @@ body {
     text-decoration: none;
 }
 
-.portfolio .container {
+.portfolio {
     padding-top: 94px;
     padding-bottom: 94px;
 }
@@ -348,6 +348,10 @@ body {
     display: inline-block;
     text-decoration: none;
     color: inherit;
+    font-family: 'Raleway', sans-serif;
+    font-size: 26px;
+    line-height: 1.19;
+    font-weight: 700;
     margin-bottom: 20px;
 }
 
