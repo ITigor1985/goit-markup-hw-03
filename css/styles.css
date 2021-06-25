@@ -60,6 +60,25 @@ body {
 }
 
 
+/*------------- components -----------------------*/
+
+.title {
+    margin-bottom: 50px;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.17;
+    text-align: center;
+}
+
+.section {
+    padding-top: 94px;
+    padding-bottom: 94px;
+}
+
+
+/*------------ END components--------------------------- */
+
+
 /* -----header----------------------------- */
 
 .header {
@@ -174,7 +193,6 @@ body {
 /* -----------------------Features------------------------- */
 
 .features {
-    padding-top: 94px;
     padding-bottom: 47px;
 }
 
@@ -209,7 +227,6 @@ body {
 
 .work {
     padding-top: 47px;
-    padding-bottom: 94px;
 }
 
 .work .list {
@@ -220,19 +237,8 @@ body {
 
 /* -------------------------Team--------------------------- */
 
-.work-title,
-.team-title {
-    margin-bottom: 50px;
-    font-weight: 700;
-    font-size: 36px;
-    line-height: 1.17;
-    text-align: center;
-}
-
 .team {
     text-align: center;
-    padding-top: 94px;
-    padding-bottom: 94px;
     background-color: var(--button-section-bg);
 }
 
@@ -275,11 +281,6 @@ body {
 
 .portfolio .link {
     text-decoration: none;
-}
-
-.portfolio {
-    padding-top: 94px;
-    padding-bottom: 94px;
 }
 
 .portfolio .list-button {
